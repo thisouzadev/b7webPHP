@@ -19,7 +19,7 @@ sudo chmod -R 777 htdocs
 - [x] Arrays
 - [x] Operador array spread
 - [x] Exercício Prático (Variáveis)
-
+<hr>
 ##### Módulo 2: Condicionais e Loops
 
 - [x] Condicional IF
