@@ -1,8 +1,10 @@
 # b7webPHP
 
+Rodar o (XAMPP)
 ~~~Terminal
 sudo /opt/lampp/manager-linux-x64.run
 ~~~
+
 ~~~Terminal
 sudo chmod -R 777 htdocs
 ~~~
@@ -16,7 +18,7 @@ sudo chmod -R 777 htdocs
 - [x] Mesclando variáveis
 - [x] Arrays
 - [x] Operador array spread
-- [x] Exercício Prático (Variáveis
+- [x] Exercício Prático (Variáveis)
 
 ##### Módulo 2: Condicionais e Loops
 
