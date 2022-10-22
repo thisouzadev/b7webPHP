@@ -2,9 +2,9 @@
 
 iniciar o programa
 sudo /opt/lampp/manager-linux-x64.run
-
+ˋˋˋ
 sudo chmod -R 777 htdocs
-
+ˋˋˋ
 
 ## Conteúdo do curso :white_check_mark:
 
