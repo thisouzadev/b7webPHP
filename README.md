@@ -2,6 +2,8 @@
 
 ~~~Terminal
 sudo /opt/lampp/manager-linux-x64.run
+~~~
+~~~Terminal
 sudo chmod -R 777 htdocs
 ~~~
 
