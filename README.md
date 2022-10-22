@@ -19,7 +19,8 @@ sudo chmod -R 777 htdocs
 - [x] Arrays
 - [x] Operador array spread
 - [x] Exercício Prático (Variáveis)
-<hr>
+<h/>
+
 ##### Módulo 2: Condicionais e Loops
 
 - [x] Condicional IF
@@ -31,7 +32,8 @@ sudo chmod -R 777 htdocs
 - [x] Loop Foreach
 - [x] Exercício Prático 1
 - [x] Exercício Prático 2
-<hr>
+<hr/>
+
 ##### Módulo 3: Funções, Parãmetrox e includes
 
 - [x] Introdução à Funções
@@ -50,7 +52,8 @@ sudo chmod -R 777 htdocs
 - [x] Exercício Prático(Funções)
 - [x] Trabalhando com mútiplos arquivos
 - [x] Trabalhando com pastas diferentes
-<hr>
+<hr/>
+
 ##### Módulo 4: Formulário, Validações, Sessão e Arquivos
 
 - [x] Introdução à HTTp Requests
