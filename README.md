@@ -9,9 +9,9 @@ sudo /opt/lampp/manager-linux-x64.run
 sudo chmod -R 777 htdocs
 ~~~
 
-## Conteúdo do curso :white_check_mark:
+## Conteúdo do curso
 
-##### Módulo 1: Introdução - PHP
+##### Módulo 1: Introdução - PHP :white_check_mark:
 
 - [x] Primeiros comandos no pHP
 - [x] Tipos de variáveis
@@ -21,7 +21,7 @@ sudo chmod -R 777 htdocs
 - [x] Exercício Prático (Variáveis)
 <h/>
 
-##### Módulo 2: Condicionais e Loops
+##### Módulo 2: Condicionais e Loops :white_check_mark:
 
 - [x] Condicional IF
 - [x] Condicinal Ternário
@@ -34,7 +34,7 @@ sudo chmod -R 777 htdocs
 - [x] Exercício Prático 2
 <hr/>
 
-##### Módulo 3: Funções, Parãmetrox e includes
+##### Módulo 3: Funções, Parãmetrox e includes :white_check_mark:
 
 - [x] Introdução à Funções
 - [x] Definindo uma função
