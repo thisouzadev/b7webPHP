@@ -4,7 +4,7 @@
 ~~~Terminal
 sudo /opt/lampp/manager-linux-x64.run
 ~~~
-
+### Permitir editar, criar, deletar dentro da pasta htdocs
 ~~~Terminal
 sudo chmod -R 777 htdocs
 ~~~
