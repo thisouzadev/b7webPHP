@@ -1,6 +1,6 @@
 # b7webPHP
 
-Rodar o (XAMPP)
+### Rodar o (XAMPP)
 ~~~Terminal
 sudo /opt/lampp/manager-linux-x64.run
 ~~~
