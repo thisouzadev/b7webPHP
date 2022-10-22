@@ -76,3 +76,17 @@ sudo chmod -R 777 htdocs
 - [ ] Desconstruindo usando list
 
 ##### Módulo 6: Orientação à Objetos
+
+##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID
+
+##### Módulo 8: Padrão MVC(Model, View, Controller)
+
+##### Módulo 9: Criação de APIs
+
+##### Módulo 10: Infraestrutura(Deploy)
+
+##### Módulo 11: Questionário Prático
+
+##### Módulo 12: Projeto Prático em MVC(Devsbook)
+
+##### Módulo 13: Projeto Prático em OO(Devsbook)
