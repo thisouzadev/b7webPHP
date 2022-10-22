@@ -31,7 +31,7 @@ sudo chmod -R 777 htdocs
 - [x] Loop Foreach
 - [x] Exercício Prático 1
 - [x] Exercício Prático 2
-
+<hr>
 ##### Módulo 3: Funções, Parãmetrox e includes
 
 - [x] Introdução à Funções
@@ -50,7 +50,7 @@ sudo chmod -R 777 htdocs
 - [x] Exercício Prático(Funções)
 - [x] Trabalhando com mútiplos arquivos
 - [x] Trabalhando com pastas diferentes
-
+<hr>
 ##### Módulo 4: Formulário, Validações, Sessão e Arquivos
 
 - [x] Introdução à HTTp Requests
@@ -65,7 +65,7 @@ sudo chmod -R 777 htdocs
 - [ ] Movendo arquivos
 - [ ] Upload de arquivos(1/2)
 - [ ] Upload de arquivos(2/2)
-
+<hr>
 ##### Módulo 5: Manipulação de Array
 
 - [ ] Array Range
@@ -77,7 +77,7 @@ sudo chmod -R 777 htdocs
 - [ ] array_splice
 - [ ] array_redduce
 - [ ] Desconstruindo usando list
-
+<hr>
 ##### Módulo 6: Orientação à Objetos
 
 - [ ] Introdução à Orientação à Objetos
@@ -102,7 +102,7 @@ sudo chmod -R 777 htdocs
 - [ ] Instalando o Composer
 - [ ] Usando o Composer (1/2)
 - [ ] Usando o Composer (2/2) 
-
+<hr>
 ##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID
 
 - [ ] Introdução à Banco de dados
@@ -135,7 +135,7 @@ sudo chmod -R 777 htdocs
 - [ ] GD: Resize
 - [ ] GD:Crop
 - [ ] Classe DateTime
-
+<hr>
 ##### Módulo 8: Padrão MVC(Model, View, Controller)
 
 - [ ] Introdução ao MVC
@@ -149,7 +149,7 @@ sudo chmod -R 777 htdocs
 - [ ] CRUD em MVC: Update
 - [ ] CRUD em MVC: Delete
 - [ ] CRUD em MVC: Arquivos css, Imagens, etc
-
+<hr>
 ##### Módulo 9: Criação de APIs
 
 - [ ] O que é uma API?
@@ -163,13 +163,13 @@ sudo chmod -R 777 htdocs
 - [ ] DevsNotes API(estrutural): Insert
 - [ ] DevsNotes API(estrutural): Update
 - [ ] DevsNotes API(estrutural): Delete
-
+<hr>
 ##### Módulo 10: Infraestrutura(Deploy)
 
 - [ ] Deploy em Hospedagem Comum
 - [ ] Configurando um VPS do zero(1/2)
 - [ ] Configurando um VPS do zero(2/2)
-
+<hr>
 ##### Módulo 11: Projeto Prático em MVC(Devsbook)
 
 - [ ] Explicando o Projeto
@@ -221,7 +221,7 @@ sudo chmod -R 777 htdocs
 - [ ] Detalhes do Feed(1/3)
 - [ ] Detalhes do Feed(2/3)
 - [ ] Detalhes do Feed(3/3)
-
+<hr>
 ##### Módulo 12: Projeto Prático em OO(Devsbook)
 
 - [ ] Explicando o Projeto
@@ -286,5 +286,3 @@ sudo chmod -R 777 htdocs
 - [ ] Refatorando Paginação
 - [ ] Bug do Like no Perfil
 - [ ] Bug do Banner
- 
-
