@@ -1,13 +1,16 @@
 # b7webPHP
 
 ### Rodar o (XAMPP)
-~~~Terminal
+
+```Terminal
 sudo /opt/lampp/manager-linux-x64.run
-~~~
+```
+
 ### Permitir editar, criar e deletar dentro da pasta htdocs
-~~~Terminal
+
+```Terminal
 sudo chmod -R 777 htdocs
-~~~
+```
 
 ## Conteúdo do curso
 
@@ -19,7 +22,7 @@ sudo chmod -R 777 htdocs
 - [x] Arrays
 - [x] Operador array spread
 - [x] Exercício Prático (Variáveis)
-<h/>
+      <h/>
 
 ##### Módulo 2: Condicionais e Loops :white_check_mark:
 
@@ -54,7 +57,7 @@ sudo chmod -R 777 htdocs
 - [x] Trabalhando com pastas diferentes
 <hr/>
 
-##### Módulo 4: Formulário, Validações, Sessão e Arquivos
+##### Módulo 4: Formulário, Validações, Sessão e Arquivos :white_check_mark:
 
 - [x] Introdução à HTTp Requests
 - [x] Pegando/Validando informações do formulário
@@ -64,23 +67,23 @@ sudo chmod -R 777 htdocs
 - [x] Lendo arquivos
 - [x] Escreendo em arquivos
 - [x] Exercício Prático(Cadastro com txt)
-- [ ] Excluindo arquivos
-- [ ] Movendo arquivos
-- [ ] Upload de arquivos(1/2)
-- [ ] Upload de arquivos(2/2)
+- [x] Excluindo arquivos
+- [x] Movendo arquivos
+- [x] Upload de arquivos(1/2)
+- [x] Upload de arquivos(2/2)
 <hr/>
 
-##### Módulo 5: Manipulação de Array
+##### Módulo 5: Manipulação de Array :white_check_mark:
 
-- [ ] Array Range
-- [ ] key_exists
-- [ ] array_keys e array_values
-- [ ] Exercício: Montando uma tabela vertical
-- [ ] Exercício: Montando uma tabela horizontal
-- [ ] array_slice
-- [ ] array_splice
-- [ ] array_redduce
-- [ ] Desconstruindo usando list
+- [x] Array Range
+- [x] key_exists
+- [x] array_keys e array_values
+- [x] Exercício: Montando uma tabela vertical
+- [x] Exercício: Montando uma tabela horizontal
+- [x] array_slice
+- [x] array_splice
+- [x] array_redduce
+- [x] Desconstruindo usando list
 <hr/>
 
 ##### Módulo 6: Orientação à Objetos
@@ -106,7 +109,7 @@ sudo chmod -R 777 htdocs
 - [ ] Introdução à Gerenciamento de Dependências
 - [ ] Instalando o Composer
 - [ ] Usando o Composer (1/2)
-- [ ] Usando o Composer (2/2) 
+- [ ] Usando o Composer (2/2)
 <hr/>
 
 ##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID
@@ -137,7 +140,7 @@ sudo chmod -R 777 htdocs
 - [ ] SOLID: I - Princípio da Segregação da Interface
 - [ ] SOLID: D - Princípio da Inversão da Dependência
 - [ ] Encriptação de senhas
-- [ ] Manipulação  de imagens com GD
+- [ ] Manipulação de imagens com GD
 - [ ] GD: Resize
 - [ ] GD:Crop
 - [ ] Classe DateTime
