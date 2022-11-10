@@ -88,28 +88,29 @@ sudo chmod -R 777 htdocs
 
 ##### Módulo 6: Orientação à Objetos
 
-- [ ] Introdução à Orientação à Objetos
-- [ ] Definindo Classes e Objetos
-- [ ] Definindo Métodos e Propriedades
-- [ ] Typed Properties
-- [ ] Método Construtor
-- [ ] Entendendo Encapsulamento
-- [ ] Método Estático
-- [ ] Exercício Prático (OO)
-- [ ] Entendendo Henrança
-- [ ] Propriedade Private e Protected
-- [ ] Entendendo interface
-- [ ] Entendendo Polimorfismo
-- [ ] Entendo Namespace
-- [ ] Entendendo Injeção de Dependência
-- [ ] O que é PSR?
-- [ ] Entendendo a PSR-1 (1/2)
-- [ ] Entendendo a PSR-1 (2/2)
-- [ ] Entendendo a PSR-4
-- [ ] Introdução à Gerenciamento de Dependências
-- [ ] Instalando o Composer
-- [ ] Usando o Composer (1/2)
-- [ ] Usando o Composer (2/2)
+- [x] Introdução à Orientação à Objetos
+- [x] Definindo Classes e Objetos
+- [x] Definindo Métodos e Propriedades
+- [x] Typed Properties
+- [x] Método Construtor
+- [x] Entendendo Encapsulamento
+- [x] Método Estático
+- [x] Exercício Prático (OO)
+- [x] Entendendo Henrança
+- [x] Propriedade Private e Protected
+- [x] Entendendo interface
+- [x] Entendendo Polimorfismo
+- [x] Entendo Namespace
+- [x] Entendendo Injeção de Dependência
+- [x] O que é PSR?
+- [x] Entendendo a PSR-1 (1/2)
+- [x] Entendendo a PSR-1 (2/2)
+- [x] Entendo Autoload
+- [x] Entendendo a PSR-4
+- [x] Introdução à Gerenciamento de Dependências
+- [x] Instalando o Composer
+- [x] Usando o Composer (1/2)
+- [x] Usando o Composer (2/2)
 <hr/>
 
 ##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID
