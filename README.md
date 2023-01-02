@@ -86,7 +86,7 @@ sudo chmod -R 777 htdocs
 - [x] Desconstruindo usando list
 <hr/>
 
-##### Módulo 6: Orientação à Objetos
+##### Módulo 6: Orientação à Objetos  :white_check_mark:
 
 - [x] Introdução à Orientação à Objetos
 - [x] Definindo Classes e Objetos
@@ -113,38 +113,38 @@ sudo chmod -R 777 htdocs
 - [x] Usando o Composer (2/2)
 <hr/>
 
-##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID
+##### Módulo 7: Banco de Dados,CRUD, DAO, SOLID  :white_check_mark:
 
-- [ ] Introdução à Banco de dados
-- [ ] Visão geral do PHP1MYAdmin (1/3)
-- [ ] Visão geral do PHP1MYAdmin (2/3)
-- [ ] Visão geral do PHP1MYAdmin (3/3)
-- [ ] Conectando ao Banco de Dados com PDO
-- [ ] Conceito CRUD
-- [ ] Create: Inserindo dados com PDO (1/2)
-- [ ] Create: Inserindo dados com PDO (2/2)
-- [ ] Read: Lendo dados com PDO
-- [ ] Update: Atualizando dados com PDO(1/2)
-- [ ] Update: Atualizando dados com PDO(2/2)
-- [ ] Delete: Removendo dados com PDO
-- [ ] Observação sobre o CRUD anterior
-- [ ] Conceito Data Access Object(DAO)
-- [ ] Criando um DAO na prática(1/5)
-- [ ] Criando um DAO na prática(2/5)
-- [ ] Criando um DAO na prática(3/5)
-- [ ] Criando um DAO na prática(4/5)
-- [ ] Criando um DAO na prática(5/5)
-- [ ] Conceito SOLID
-- [ ] SOLID: S - Princípio da Responsabilidade Única
-- [ ] SOLID: O - Princípio Aberto-Fechado
-- [ ] SOLID: L - Princípio da Substituição de Liskov
-- [ ] SOLID: I - Princípio da Segregação da Interface
-- [ ] SOLID: D - Princípio da Inversão da Dependência
-- [ ] Encriptação de senhas
-- [ ] Manipulação de imagens com GD
-- [ ] GD: Resize
-- [ ] GD:Crop
-- [ ] Classe DateTime
+- [x] Introdução à Banco de dados
+- [x] Visão geral do PHP1MYAdmin (1/3)
+- [x] Visão geral do PHP1MYAdmin (2/3)
+- [x] Visão geral do PHP1MYAdmin (3/3)
+- [x] Conectando ao Banco de Dados com PDO
+- [x] Conceito CRUD
+- [x] Create: Inserindo dados com PDO (1/2)
+- [x] Create: Inserindo dados com PDO (2/2)
+- [x] Read: Lendo dados com PDO
+- [x] Update: Atualizando dados com PDO(1/2)
+- [x] Update: Atualizando dados com PDO(2/2)
+- [x] Delete: Removendo dados com PDO
+- [x] Observação sobre o CRUD anterior
+- [x] Conceito Data Access Object(DAO)
+- [x] Criando um DAO na prática(1/5)
+- [x] Criando um DAO na prática(2/5)
+- [x] Criando um DAO na prática(3/5)
+- [x] Criando um DAO na prática(4/5)
+- [x] Criando um DAO na prática(5/5)
+- [x] Conceito SOLID
+- [x] SOLID: S - Princípio da Responsabilidade Única
+- [x] SOLID: O - Princípio Aberto-Fechado
+- [x] SOLID: L - Princípio da Substituição de Liskov
+- [x] SOLID: I - Princípio da Segregação da Interface
+- [x] SOLID: D - Princípio da Inversão da Dependência
+- [x] Encriptação de senhas
+- [x] Manipulação de imagens com GD
+- [x] GD: Resize
+- [x] GD:Crop
+- [x] Classe DateTime
 <hr/>
 
 ##### Módulo 8: Padrão MVC(Model, View, Controller)
