@@ -147,19 +147,19 @@ sudo chmod -R 777 htdocs
 - [x] Classe DateTime
 <hr/>
 
-##### Módulo 8: Padrão MVC(Model, View, Controller)
+##### Módulo 8: Padrão MVC(Model, View, Controller) :white_check_mark:
 
-- [ ] Introdução ao MVC
-- [ ] MVC: Instalação
-- [ ] MVC: Rotas
-- [ ] MVC: Rotas Dinâmicas
-- [ ] MVC: View Dinâmico
-- [ ] CRUD em MVC: Create(1/2)
-- [ ] CRUD em MVC: Create(2/2)
-- [ ] CRUD em MVC: Read
-- [ ] CRUD em MVC: Update
-- [ ] CRUD em MVC: Delete
-- [ ] CRUD em MVC: Arquivos css, Imagens, etc
+- [x] Introdução ao MVC
+- [x] MVC: Instalação
+- [x] MVC: Rotas
+- [x] MVC: Rotas Dinâmicas
+- [x] MVC: View Dinâmico
+- [x] CRUD em MVC: Create(1/2)
+- [x] CRUD em MVC: Create(2/2)
+- [x] CRUD em MVC: Read
+- [x] CRUD em MVC: Update
+- [x] CRUD em MVC: Delete
+- [x] CRUD em MVC: Arquivos css, Imagens, etc
 <hr/>
 
 ##### Módulo 9: Criação de APIs
