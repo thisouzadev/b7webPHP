@@ -162,19 +162,19 @@ sudo chmod -R 777 htdocs
 - [x] CRUD em MVC: Arquivos css, Imagens, etc
 <hr/>
 
-##### Módulo 9: Criação de APIs
+##### Módulo 9: Criação de APIs :white_check_mark:
 
-- [ ] O que é uma API?
-- [ ] Estrtura de uma API
-- [ ] DevsNotes API: Planejamento
-- [ ] DevsNotes API:Banco de Dados
-- [ ] DevsNotes API(estrutural): Introdução
-- [ ] DevsNotes API(estrutural): Base
-- [ ] DevsNotes API(estrutural): Getall
-- [ ] DevsNotes API(estrutural): Get
-- [ ] DevsNotes API(estrutural): Insert
-- [ ] DevsNotes API(estrutural): Update
-- [ ] DevsNotes API(estrutural): Delete
+- [x] O que é uma API?
+- [x] Estrtura de uma API
+- [x] DevsNotes API: Planejamento
+- [x] DevsNotes API:Banco de Dados
+- [x] DevsNotes API(estrutural): Introdução
+- [x] DevsNotes API(estrutural): Base
+- [x] DevsNotes API(estrutural): Getall
+- [x] DevsNotes API(estrutural): Get
+- [x] DevsNotes API(estrutural): Insert
+- [x] DevsNotes API(estrutural): Update
+- [x] DevsNotes API(estrutural): Delete
 <hr/>
 
 ##### Módulo 10: Infraestrutura(Deploy)
